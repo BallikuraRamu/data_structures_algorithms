@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="recursion-algorithms"/>
+	<classpathentry kind="src" path="BruteForceAlgorithms"/>
+	<classpathentry kind="src" path="DivideandConquer"/>
+	<classpathentry kind="src" path="GreedyAlgorithms"/>
+	<classpathentry kind="src" path="Backtracking"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
 			<attribute name="module" value="true"/>
